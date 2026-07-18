@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola+Mundo!;Desarrollador+de+Software;Especialista+en+IA;Amante+de+la+Tecnologia" alt="Typing SVG" />
 </p>
 
-<h2 align="center">👨‍💻 Hola, Soy Jorge Hernandez La Madrid de Perú.</h2>
+<h2 align="center">👨‍💻 Hola, Soy Jorge Hernandez La Madrid de México.</h2>
 
 <p align="center">
   <a href="mailto:jorgeernandes587@gmail.com"><img src="https://img.shields.io/badge/Email-jorgeernandes587@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer" />
 
 ### 👨‍💻 Sobre mí:
 
