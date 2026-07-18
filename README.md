@@ -11,9 +11,7 @@
 
 ---
 
-<p align="center">
-  <img width="250" src="avatar2.png" alt="Pro Developer Avatar" style="border-radius: 20px;" />
-</p>
+<img align="right" width="280" src="avatar3.jpg" alt="Pro Developer Avatar" style="border-radius: 20px;" />
 
 ### 👨‍💻 About me:
 
@@ -24,6 +22,7 @@
 - 💬 Let's talk about **Python, Machine Learning, Streamlit** or large-scale software design.
 - 📫 Reach me at: [jorgeernandes587@gmail.com](mailto:jorgeernandes587@gmail.com)
 
+<br>
 <br>
 <br>
 
