@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola+Mundo!;Desarrollador+de+Software;Especialista+en+IA;Amante+de+la+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!;Software+Developer;AI+Specialist;Technology+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h2 align="center">👨‍💻 Hola, Soy Jorge Hernandez La Madrid de México.</h2>
+<h2 align="center">👨‍💻 Hi, I'm Jorge Hernandez La Madrid from Mexico.</h2>
 
 <p align="center">
   <a href="mailto:jorgeernandes587@gmail.com"><img src="https://img.shields.io/badge/Email-jorgeernandes587@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
@@ -13,21 +13,21 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer" />
 
-### 👨‍💻 Sobre mí:
+### 👨‍💻 About me:
 
-- 🚀 Liderando el desarrollo de soluciones empresariales como el **Sistema de Gestión Integral CAMSA** y **JORANA IA**.
-- 🧠 Apasionado por la integración de **Modelos de Inteligencia Artificial** en aplicaciones del mundo real.
-- 🌱 Actualmente explorando arquitecturas avanzadas de **Deep Learning** y **Cloud Computing**.
-- 👯 Abierto a colaborar en herramientas innovadoras de **Análisis de Datos** y **Automatización (ERP)**.
-- 💬 Hablemos sobre **Python, Machine Learning, Streamlit** o diseño de software a gran escala.
-- 📫 Contáctame: [jorgeernandes587@gmail.com](mailto:jorgeernandes587@gmail.com)
+- 🚀 Leading the development of enterprise solutions like the **CAMSA Comprehensive Management System** and **JORANA AI**.
+- 🧠 Passionate about integrating **Artificial Intelligence Models** into real-world applications.
+- 🌱 Currently exploring advanced **Deep Learning** and **Cloud Computing** architectures.
+- 👯 Open to collaborating on innovative **Data Analytics** and **Automation (ERP)** tools.
+- 💬 Let's talk about **Python, Machine Learning, Streamlit** or large-scale software design.
+- 📫 Reach me at: [jorgeernandes587@gmail.com](mailto:jorgeernandes587@gmail.com)
 
 <br>
 <br>
 <br>
 <br>
 
-### 🛠️ Tecnologías que manejo
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,12 +37,13 @@
 
 ---
 
-### 📈 Mis Estadísticas en GitHub
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Looopxs&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Looopxs&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Looopxs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Looopxs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
+
 <br>
 <br>
 <div align="center">
