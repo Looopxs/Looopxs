@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=(Hola%2C+Mundo!);Desarrollador+de+Software+🚀;Especialista+en+Machine+Learning+🤖;Amante+de+la+Tecnolog%C3%ADa+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola+Mundo!;Desarrollador+de+Software;Especialista+en+IA;Amante+de+la+Tecnologia" alt="Typing SVG" />
 </p>
 
 <h2 align="center">👨‍💻 Hola, Soy Jorge Hernandez La Madrid de México.</h2>
@@ -40,6 +40,6 @@
 ### 📈 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Looopxs&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Looopxs&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Looopxs&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Looopxs&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="48%"/>
 </p>
