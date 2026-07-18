@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!;Software+Developer;AI+Specialist;Technology+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h2 align="center">👨‍💻 Hi, I'm Jorge Hernandez La Madrid from Perú.</h2>
+<h2 align="center">👨‍💻 Hi, I'm Jorge Hernandez La Madrid from Peru.</h2>
 
 <p align="center">
   <a href="mailto:jorgeernandes587@gmail.com"><img src="https://img.shields.io/badge/Email-jorgeernandes587@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" width="280" src="avatar3.jpg" alt="Pro Developer Avatar" style="border-radius: 20px;" />
+<img align="right" width="140" src="avatar3.jpg" alt="Pro Developer Avatar" style="border-radius: 12px;" />
 
 ### 👨‍💻 About me:
 
@@ -22,8 +22,7 @@
 - 💬 Let's talk about **Python, Machine Learning, Streamlit** or large-scale software design.
 - 📫 Reach me at: [jorgeernandes587@gmail.com](mailto:jorgeernandes587@gmail.com)
 
-<br>
-<br>
+<br clear="both">
 <br>
 
 ### 🛠️ Technologies & Tools
