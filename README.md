@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!;Software+Developer;AI+Specialist;Technology+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h2 align="center">👨‍💻 Hi, I'm Jorge Hernandez La Madrid from Peru.</h2>
+<h2 align="center">👨‍💻 Hi, I'm Jorge Hernandez La Madrid from Perú.</h2>
 
 <p align="center">
   <a href="mailto:jorgeernandes587@gmail.com"><img src="https://img.shields.io/badge/Email-jorgeernandes587@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
