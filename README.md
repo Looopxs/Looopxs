@@ -15,11 +15,11 @@
 
 ### 👨‍💻 Sobre mí:
 
-- 🚀 Actualmente trabajo en el **Sistema de Gestión Integral CAMSA** y **JORANA IA**.
-- 🌱 Aprendiendo modelos avanzados de **Inteligencia Artificial** y **Machine Learning**.
-- 👯 Busco colaborar en proyectos de **Sistemas de Gestión Empresarial (ERP)**.
-- 🤔 Busco ayuda con la optimización de algoritmos predictivos y despliegue en la nube.
-- 💬 Pregúntame sobre **Python, Streamlit o Arquitectura de Software**.
+- 🚀 Liderando el desarrollo de soluciones empresariales como el **Sistema de Gestión Integral CAMSA** y **JORANA IA**.
+- 🧠 Apasionado por la integración de **Modelos de Inteligencia Artificial** en aplicaciones del mundo real.
+- 🌱 Actualmente explorando arquitecturas avanzadas de **Deep Learning** y **Cloud Computing**.
+- 👯 Abierto a colaborar en herramientas innovadoras de **Análisis de Datos** y **Automatización (ERP)**.
+- 💬 Hablemos sobre **Python, Machine Learning, Streamlit** o diseño de software a gran escala.
 - 📫 Contáctame: [jorgeernandes587@gmail.com](mailto:jorgeernandes587@gmail.com)
 
 <br>
