@@ -43,3 +43,12 @@
   <img src="https://github-stats-extended.vercel.app/api?username=Looopxs&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=Looopxs&theme=tokyonight&hide_border=true" alt="Racha de GitHub" width="48%"/>
 </p>
+<br>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Looopxs/Looopxs/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Looopxs/Looopxs/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Looopxs/Looopxs/output/github-snake.svg">
+  </picture>
+</div>
